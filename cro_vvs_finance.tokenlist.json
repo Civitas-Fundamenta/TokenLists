@@ -1,0 +1,306 @@
+[
+  {
+    "chainId": "25",
+    "address": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+    "decimals": 18,
+    "name": "Wrapped CRO",
+    "symbol": "WCRO",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x062e66477faf219f25d27dced647bf57c3107d52",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+    "decimals": 6,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x66e428c3f67a68878562e79a0234c1f83c208770",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x2d03bece6747adc00e1a131bba1469c15fd11e03",
+    "decimals": 18,
+    "name": "VVSToken",
+    "symbol": "VVS",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xdd73dea10abc2bff99c60882ec5b2b81bb1dc5b2",
+    "decimals": 18,
+    "name": "Tectonic Governance Token",
+    "symbol": "TONIC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xb888d8dd1733d72681b30c00ee76bde93ae7aa93",
+    "decimals": 6,
+    "name": "ATOM",
+    "symbol": "ATOM",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xbed48612bc69fa1cab67052b42a95fb30c1bcfee",
+    "decimals": 18,
+    "name": "SHIBA INU",
+    "symbol": "SHIB",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x1a8e39ae59e5556b56b76fcba98d22c9ae557396",
+    "decimals": 8,
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xf2001b145b43032aaf5ee2884e456ccd805f677d",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x02dccaf514c98451320a9365c5b46c61d3246ff3",
+    "decimals": 18,
+    "name": "Dogelon",
+    "symbol": "ELON",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x0804702a4e749d39a35fde73d1df0b1f1d6b8347",
+    "decimals": 18,
+    "name": "SINGLE Token",
+    "symbol": "SINGLE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xe6801928061cdbe32ac5ad0634427e140efd05f9",
+    "decimals": 18,
+    "name": "beefy.finance",
+    "symbol": "BIFI",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x4e57e27e4166275eb7f4966b42a201d76e481b03",
+    "decimals": 18,
+    "name": "Cougar Token",
+    "symbol": "CGS",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x98616a1427a1734daeba1e1894db48051244a065",
+    "decimals": 18,
+    "name": "DeRace Token",
+    "symbol": "DERC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x5b2663e36f1517f1c48ad32b86f95416e00d7fc4",
+    "decimals": 18,
+    "name": "CroDoge",
+    "symbol": "DOGEX",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x9278c8693e7328bef49804bacbfb63253565dffd",
+    "decimals": 6,
+    "name": "LUNA",
+    "symbol": "LUNA",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x6b66fcb66dba37f99876a15303b759c73fc54ed0",
+    "decimals": 18,
+    "name": "Hibiki.finance",
+    "symbol": "cHIBIKI",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x49c3bbb239f4fb44327073510f4ba72d207a81d6",
+    "decimals": 18,
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xa58e3aeaea3292c3e260378e55e9684c59e7a27a",
+    "decimals": 18,
+    "name": "DappRadar",
+    "symbol": "RADAR",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x0a92ea8a197919acb9bc26660ed0d43d01ed26b7",
+    "decimals": 18,
+    "name": "Enjin Coin",
+    "symbol": "ENJ",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x0e517979c2c1c1522ddb0c73905e0d39b3f990c0",
+    "decimals": 6,
+    "name": "ADA",
+    "symbol": "ADA",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x994047fe66406cbd646cd85b990e11d7f5db8fc7",
+    "decimals": 10,
+    "name": "DOT",
+    "symbol": "DOT",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xbc6f24649ccd67ec42342accdceccb2efa27c9d9",
+    "decimals": 18,
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x4042657c3fe49165effe852b76e6cc4acff06e39",
+    "decimals": 18,
+    "name": "ShiCro Inu",
+    "symbol": "SHI",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xc7e99a2f064cf86af91db252a9d8bc16e6fe7427",
+    "decimals": 18,
+    "name": "V3SToken",
+    "symbol": "V3S",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x9a6146b8623c17f6570a7479853fac25206ae916",
+    "decimals": 18,
+    "name": "OctaDahlia",
+    "symbol": "OcDa",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xdcc261c03cd2f33ebea404318cdc1d9f8b78e1ad",
+    "decimals": 18,
+    "name": "VSHARE",
+    "symbol": "VSHARE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x6665d66afa48f527d86623723342cfa258cb8666",
+    "decimals": 18,
+    "name": "The Crocodile Token",
+    "symbol": "Crox",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x93c065f8305976bd068fea0e91b54521cf57222a",
+    "decimals": 18,
+    "name": "TEST2",
+    "symbol": "TEST2",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xe7393ad99be35cbafe14839d38b96b89355b0b5b",
+    "decimals": 18,
+    "name": "TEST2",
+    "symbol": "TEST2",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xadbd1231fb360047525bedf962581f3eee7b49fe",
+    "decimals": 18,
+    "name": "CronaSwap Token",
+    "symbol": "CRONA",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0xa918712e55fb1d64778e660114b6c9945113ed8e",
+    "decimals": 18,
+    "name": "Cronostreetbets",
+    "symbol": "tg-Cronostreetbets",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x2fdcb16a977921fadac3a9e03d18ada77b4aa3f5",
+    "decimals": 9,
+    "name": "Tendies",
+    "symbol": "TENDIES",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x5617ea36c5da5dafab51a8634b02609459fee94f",
+    "decimals": 4,
+    "name": "Croshiba",
+    "symbol": "CROSHIBA",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x238d8d951aac0608dba71f4f835d479bda1bfb11",
+    "decimals": 18,
+    "name": "DOGECOIN TOKEN",
+    "symbol": "DOGE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "25",
+    "address": "0x51f023f6b847d8a4a2c0ea2d677e91f204d44641",
+    "decimals": 18,
+    "name": "Test Cougar Token",
+    "symbol": "Test CGS",
+    "logoURI": ""
+  }
+]

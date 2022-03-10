@@ -1,0 +1,578 @@
+[
+  {
+    "chainId": "56",
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "decimals": 18,
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+    "decimals": 8,
+    "name": "Binance ABBC",
+    "symbol": "BABBC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02",
+    "decimals": 8,
+    "name": "Gera",
+    "symbol": "GERA",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "decimals": 18,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x71dd90c2d51f4c611edb08fc1c6b358f88d154f0",
+    "decimals": 18,
+    "name": "GrimaceCoin",
+    "symbol": "GRIMACE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+    "decimals": 18,
+    "name": "Hot Cross Token",
+    "symbol": "HOTCROSS",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+    "decimals": 18,
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xc3ec94f9b9696bf406caeb0f0c53c6fe438b17fe",
+    "decimals": 9,
+    "name": "CandleMakerCoin",
+    "symbol": "CMC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "decimals": 18,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "decimals": 18,
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x69fa8e7f6bf1ca1fb0de61e1366f7412b827cc51",
+    "decimals": 9,
+    "name": "EnreachDAO",
+    "symbol": "NRCH",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xf16e81dce15b08f326220742020379b855b87df9",
+    "decimals": 18,
+    "name": "IceToken",
+    "symbol": "ICE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+    "decimals": 8,
+    "name": "ARIVA",
+    "symbol": "ARV",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+    "decimals": 18,
+    "name": "IRON Stablecoin",
+    "symbol": "IRON",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x6ca5fac496bf94345958635e6e6171dfe78f36bb",
+    "decimals": 18,
+    "name": "MoonsDust",
+    "symbol": "MOOND",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x5f7871433322b9f9795b97801ec3396276d1d056",
+    "decimals": 18,
+    "name": "Ympla",
+    "symbol": "YMPA",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x518445f0db93863e5e93a7f70617c05afa8048f1",
+    "decimals": 18,
+    "name": "BITTOKEN",
+    "symbol": "BITT",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+    "decimals": 6,
+    "name": "Frapped USDT",
+    "symbol": "fUSDT",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xbdd8c608c19bdcfe0806c0ee1036f82d7e690250",
+    "decimals": 18,
+    "name": "CP Token",
+    "symbol": "CPT",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xfcb5df42e06a39e233dc707bb3a80311efd11576",
+    "decimals": 18,
+    "name": "www.METH.co.in",
+    "symbol": "METH",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xfb0e184e0af9e48044878740b054dfe1da725a74",
+    "decimals": 18,
+    "name": "sam",
+    "symbol": "sam",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x963fac6d71cddbd717d8d0c2fd06aae5dd6072fc",
+    "decimals": 18,
+    "name": "OmniWhirl",
+    "symbol": "WHIRL",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x62aa52175ff697989b214b298cef5053b0bfdef6",
+    "decimals": 18,
+    "name": "DENCHCOIN",
+    "symbol": "DENCH",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x1b8c57a4ca0c51726483fb455c4e6e4625e91c7b",
+    "decimals": 9,
+    "name": "EAGLESTAR",
+    "symbol": "EAGLE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xd42220de5f5260ccc4c80fe3b08dae0968688d13",
+    "decimals": 18,
+    "name": "Extended VONDER",
+    "symbol": "xVON",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xfe4eb925914bf72f6fc19b98b359e246ac3df132",
+    "decimals": 6,
+    "name": "Macaucasinolisboa",
+    "symbol": "MCL",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x7d16a4a72041a7f3f1e7de1b2b6a8c7d5343e84f",
+    "decimals": 18,
+    "name": "MetaSystem",
+    "symbol": "Msys",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x9df604afbf57a4b2bdd5ed2e451f20055804bd18",
+    "decimals": 9,
+    "name": "ShiroInu",
+    "symbol": "SHIRO",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xdfd9e2a17596cad6295ecffda42d9b6f63f7b5d5",
+    "decimals": 18,
+    "name": "FinNexus",
+    "symbol": "FNX",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xc15e89f2149bcc0cbd5fb204c9e77fe878f1e9b2",
+    "decimals": 9,
+    "name": "HUH_Token",
+    "symbol": "HUH",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "decimals": 18,
+    "name": "Ethereum Token",
+    "symbol": "ETH",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "decimals": 18,
+    "name": "PancakeSwap Token",
+    "symbol": "Cake",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x9c67ee6d0f3f12969abc92595b06cc1c93a60313",
+    "decimals": 6,
+    "name": "DAPF Invest Token",
+    "symbol": "DAPF",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xe8e84fa24ba3eef95cd2a9de95e8e356b3ad89a7",
+    "decimals": 18,
+    "name": "Floki Valentine",
+    "symbol": "FVAL",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x33779269c875b74f23ba21dd7fb57fb335beae06",
+    "decimals": 18,
+    "name": "unknown",
+    "symbol": "INP",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xaf307c4ea25c8d2a7029dc0322396a6b4b00a0fc",
+    "decimals": 9,
+    "name": "TEE-Coin on BSC",
+    "symbol": "BTEC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xc0924edefb2c0c303de2d0c21bff07ab763163b5",
+    "decimals": 9,
+    "name": "Steam Exchange",
+    "symbol": "SteamX",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "decimals": 18,
+    "name": "BTCB Token",
+    "symbol": "BTCB",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xb4bf64b17e270b50d00658e3c0e2fbdefabdd87b",
+    "decimals": 18,
+    "name": "CheeseSwap",
+    "symbol": "CHEESE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x20cc0f8139663d0233def10f9b3130588ffc66a9",
+    "decimals": 9,
+    "name": "JokerFootball",
+    "symbol": "JKF",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+    "decimals": 18,
+    "name": "HASH",
+    "symbol": "HASH",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+    "decimals": 18,
+    "name": "XRP Token",
+    "symbol": "XRP",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x1c6bc8e962427deb4106ae06a7fa2d715687395c",
+    "decimals": 18,
+    "name": "Charge",
+    "symbol": "Charge",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xa80d76abb3087f730ce14aaf54b211611bac0be8",
+    "decimals": 18,
+    "name": "VONDER Dollar-Peg",
+    "symbol": "VUSD",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xfcf93a7ce9b1f5b80e7b1e630752d7045a2be985",
+    "decimals": 18,
+    "name": "CRIPTO TRITIO",
+    "symbol": "TRTO",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+    "decimals": 18,
+    "name": "Dai Token",
+    "symbol": "DAI",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x53766d3b2fe0e8ded2c8d9d89d964a1f34e43481",
+    "decimals": 18,
+    "name": "safemarsCash",
+    "symbol": "SAFEMARSCASH",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xaa52aec4d06dcb4709be8561dd883dc611b4ead2",
+    "decimals": 18,
+    "name": "PetCoinStoreTest",
+    "symbol": "PCST",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b",
+    "decimals": 9,
+    "name": "0xzx Token",
+    "symbol": "0xzx",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x755f34709e369d37c6fa52808ae84a32007d1155",
+    "decimals": 18,
+    "name": "Nabox Token",
+    "symbol": "NABOX",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x907abff0f978f336bb021e9f758e71035b7fdba0",
+    "decimals": 8,
+    "name": "EQUA Cash",
+    "symbol": "EQUA",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xfaa23d94beb8e1320932bf292a5ce3f5b76c9343",
+    "decimals": 18,
+    "name": "UIX UserInterface",
+    "symbol": "UIX",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x1c25222994531c4ac35e4d94bbf7552c9aa92e32",
+    "decimals": 18,
+    "name": "Wrapped PKT",
+    "symbol": "WPKT",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
+    "decimals": 18,
+    "name": "LunaChow on xDai from xDai",
+    "symbol": "LUCHOW",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x71122b3aadce1ef7bc5bb4a2a644af0b478af548",
+    "decimals": 18,
+    "name": "vsga.cc",
+    "symbol": "vsga.cc",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x038c8441d9dc7eabf1f4ce07979117455b1fc324",
+    "decimals": 18,
+    "name": "CAT COIN SPHYNX",
+    "symbol": "SPYX",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x579a6277a6c2c63a5b25006f63bce5dc8d9c25e7",
+    "decimals": 18,
+    "name": "Bingo Cash",
+    "symbol": "BGO",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x9b71b5511998e0798625b8fa74e86d8192de78c1",
+    "decimals": 18,
+    "name": "Kripton",
+    "symbol": "LPK",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x0abd3e3502c15ec252f90f64341cba74a24fba06",
+    "decimals": 18,
+    "name": "farm.space",
+    "symbol": "SPACE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xca3f508b8e4dd382ee878a314789373d80a5190a",
+    "decimals": 18,
+    "name": "beefy.finance",
+    "symbol": "BIFI",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xb67aed4350ef34dbe5cb5a610c6f92574f68106a",
+    "decimals": 9,
+    "name": "$Paws",
+    "symbol": "$PAWS",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+    "decimals": 18,
+    "name": "Reef.finance",
+    "symbol": "REEF",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x8595f9da7b868b1822194faed312235e43007b49",
+    "decimals": 18,
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x676b737113298df7690562ceeb32c486b0fe4b84",
+    "decimals": 9,
+    "name": "Camel Inu",
+    "symbol": "CAMEL",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x58440565fef5e558ffd1078e3e6ec3e3e80598c9",
+    "decimals": 18,
+    "name": "THCfreeFarm",
+    "symbol": "THCF",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69",
+    "decimals": 18,
+    "name": "Wrapped NewYorkCoin",
+    "symbol": "WNYC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x988c11625472340b7b36ff1534893780e0d8d841",
+    "decimals": 6,
+    "name": "Wrapped Conceal (wCCX)",
+    "symbol": "wCCX",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+    "decimals": 18,
+    "name": "Litecoin Token",
+    "symbol": "LTC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xde4512db1a7a7519818da38db86ec1363d70a711",
+    "decimals": 18,
+    "name": "RankerDAO",
+    "symbol": "RANKER",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+    "decimals": 18,
+    "name": "Cardano Token",
+    "symbol": "ADA",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xf390fb7d16f2cbba037c1fc48862463116a7e545",
+    "decimals": 18,
+    "name": "Moonlift",
+    "symbol": "MLTP",
+    "logoURI": ""
+  },
+  {
+    "chainId": "56",
+    "address": "0xade6dd2f7d3b45e726f74bb50b65bef86b2f5b17",
+    "decimals": 18,
+    "name": "Mongoose Hamster Coin",
+    "symbol": "MHAM",
+    "logoURI": ""
+  }
+]

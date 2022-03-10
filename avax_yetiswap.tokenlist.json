@@ -1,0 +1,114 @@
+[
+  {
+    "chainId": "43114",
+    "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USDT.e",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+    "decimals": 8,
+    "name": "Avalanche ABBC",
+    "symbol": "AVABBC",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0x488f73cddda1de3664775ffd91623637383d6404",
+    "decimals": 18,
+    "name": "YetiSwap",
+    "symbol": "YTS",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "decimals": 18,
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "symbol": "DAI.e",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0x36382b14f1e7a70d71e5a6c31f9d5d917707a70f",
+    "decimals": 3,
+    "name": "EROS Token",
+    "symbol": "EROS",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "symbol": "WETH.e",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15",
+    "decimals": 18,
+    "name": "Ether",
+    "symbol": "ETH",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0x4e840aadd28da189b9906674b4afcb77c128d9ea",
+    "decimals": 18,
+    "name": "srnArtGallery Tokenized Arts",
+    "symbol": "SISTA",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0xb2a85c5ecea99187a977ac34303b80acbddfa208",
+    "decimals": 18,
+    "name": "ROCO",
+    "symbol": "ROCO",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0x78ea17559b3d2cf85a7f9c2c704eda119db5e6de",
+    "decimals": 18,
+    "name": "Avaware",
+    "symbol": "AVE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0xde3a24028580884448a5397872046a019649b084",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0x9d7c0e59d92390777d459169948ad1e81994cd55",
+    "decimals": 18,
+    "name": "NWO",
+    "symbol": "STATE",
+    "logoURI": ""
+  },
+  {
+    "chainId": "43114",
+    "address": "0x38b00fdf5f57831ca168676a71d860d1f084c84c",
+    "decimals": 18,
+    "name": "MetaSwap Avalanche",
+    "symbol": "MSAA",
+    "logoURI": ""
+  }
+]
